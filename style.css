@@ -163,6 +163,7 @@ html{
     background-color: rgb(30, 30, 30);
     color: white;
     border-radius: 15px;
+    margin:0 auto;
 }
 .card button{
     text-align: center;
